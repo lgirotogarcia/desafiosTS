@@ -78,3 +78,8 @@ botaoAtualizar.addEventListener('click', function () {
 botaoLimpar.addEventListener('click', function () {
     limparSaldo();
 });
+
+
+
+// Desafio 4
+
